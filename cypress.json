@@ -1,0 +1,9 @@
+{
+  "env":{
+          "url" : "https://www.rahulshettyacademy.com/loginpagePractise/"
+  },
+        "testFiles": "**/*.feature"
+
+}
+
+
